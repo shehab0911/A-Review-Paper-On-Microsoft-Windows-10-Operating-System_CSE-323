@@ -1,1 +1,1 @@
-# Operating-Systems-Design_CSE-323
+# Operating-Systems-Design
